@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diginote/static/css/main.c6c4b6cc.css",
+    "main.js": "/diginote/static/js/main.5ef362d9.js",
+    "static/media/img2.png": "/diginote/static/media/img2.4e4332c89deedb92d088.png",
+    "static/media/digital.png": "/diginote/static/media/digital.3a8cf2f8265de4519247.png",
+    "index.html": "/diginote/index.html",
+    "main.c6c4b6cc.css.map": "/diginote/static/css/main.c6c4b6cc.css.map",
+    "main.5ef362d9.js.map": "/diginote/static/js/main.5ef362d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c4b6cc.css",
+    "static/js/main.5ef362d9.js"
+  ]
+}
